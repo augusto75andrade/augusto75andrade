@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 Seja Bem Vindos Ao Meu Mundo!
 
-![gif tecnologia](https://media1.tenor.com/m/VObrmodY2ucAAAAd/eth-blockchain.gif)
+![gif tecnologia](https://giffiles.alphacoders.com/120/120251.gif)
 <!--
 **augusto75andrade/augusto75andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
