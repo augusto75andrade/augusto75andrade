@@ -22,7 +22,7 @@ ___negrito e itálico___
    1. Sublista
 []()
 
-![https://media.istockphoto.com/id/1337318914/pt/foto/abstract-artificial-intelligence-background-3d-rendering.jpg?s=612x612&w=is&k=20&c=-E6VSOb4uQ_Cj5AXEIizkPUwUl9WZXlJS6WhCbamRuE=]
+![Estudante de TI](https://media.istockphoto.com/id/1337318914/pt/foto/abstract-artificial-intelligence-background-3d-rendering.jpg?s=612x612&w=is&k=20&c=-E6VSOb4uQ_Cj5AXEIizkPUwUl9WZXlJS6WhCbamRuE=)
 
 
 <!--
