@@ -22,7 +22,7 @@ Minhas Tecnologias
 -----
 | Cursos | Certificados |
 |--------|--------------|
-| Bootcamp DIO |[https://hermes.dio.me/certificates/XLTBE0LY.pdf]
+| Bootcamp DIO 🔝|[https://hermes.dio.me/certificates/XLTBE0LY.pdf]
 |Landin Page HTML CSS DIO|[https://hermes.dio.me/certificates/2111C433.pdf]
 |Start Javascript DIO|[https://hermes.dio.me/certificates/8ACC6058.pdf]          
 |Start Python DIO|[https://hermes.dio.me/certificates/NVGXCITR.pdf]   
