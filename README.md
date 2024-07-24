@@ -1,8 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 Seja Bem Vindos Ao Meu Mundo!
 
-![Gif](https://tenor.com/pt-BR/view/cyber-digital-gif-6072747)
-
-
+![gif tecnologia](https://media1.tenor.com/m/VObrmodY2ucAAAAd/eth-blockchain.gif)
 <!--
 **augusto75andrade/augusto75andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
