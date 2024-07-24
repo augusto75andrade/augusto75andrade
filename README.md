@@ -18,9 +18,15 @@ Minhas Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="100px"/>
-          
-    
-          
+
+-----
+| Cursos | Certificados |
+|--------|--------------|
+| Bootcamp DIO |[https://hermes.dio.me/certificates/XLTBE0LY.pdf]
+|Landin Page HTML CSS DIO|[https://hermes.dio.me/certificates/2111C433.pdf]
+|Start Javascript DIO|[https://hermes.dio.me/certificates/8ACC6058.pdf]          
+|Start Python DIO|[https://hermes.dio.me/certificates/NVGXCITR.pdf]   
+|Start Banco de dados DIO|[https://hermes.dio.me/certificates/UNWUAF1L.pdf]          
     
 
 
