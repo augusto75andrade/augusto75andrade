@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 Sejam Bem Vindos!
 
-![gif tecnologia](https://www.elindependiente.com/wp-content/uploads/2017/07/blockchain-g.gif)
+![gif tecnologia](https://i.gifer.com/J4o.mp4)
 
 
 🎓Sou Analista Administrativo, Bacharel em Administração e estudante de Análise e Desenvolvimento de Sistemas.
