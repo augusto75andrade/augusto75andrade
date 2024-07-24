@@ -1,28 +1,6 @@
-## Hi there 👋
+## Hello World, I'm Carlos Augusto 👋 Seja Bem Vindos Ao Meu Mundo!
 
-<!--Cabeçalho -->
-<!--#Título 1
-##Título 2
-###Título 3
-####Título 4
-#####Título 5
-######Título 6-->
-*itálico* ou_itálico_
-
-**negrito** ou _negrito_
-
-___negrito e itálico___
-
--Lista 1
--Lista 2
- - Sublista
-
-1. Lista 1
-2. Lista 2 
-   1. Sublista
-[]()
-
-![Estudante de TI](https://images.pexels.com/photos/417458/pexels-photo-417458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Gif](https://tenor.com/pt-BR/view/cyber-digital-gif-6072747)
 
 
 <!--
