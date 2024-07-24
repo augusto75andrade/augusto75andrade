@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 Sejam Bem Vindos!
 
-![gif tecnologia](https://i.gifer.com/J4o.mp4)
+![gif tecnologia](https://thumbs.dreamstime.com/b/abstract-technology-chip-processor-background-circuit-board-code-illustration-blue-technology-background-vector-innovation-121763171.jpg)
 
 
 🎓Sou Analista Administrativo, Bacharel em Administração e estudante de Análise e Desenvolvimento de Sistemas.
