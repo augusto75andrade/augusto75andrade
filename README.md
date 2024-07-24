@@ -1,4 +1,4 @@
-## Hello World, I'm Carlos Augusto 👋 Seja Bem Vindos Ao Meu Mundo!
+## Hello World, I'm Carlos Augusto 👋 Seja Bem Vindos!
 
 ![gif tecnologia](https://www.elindependiente.com/wp-content/uploads/2017/07/blockchain-g.gif)
 
