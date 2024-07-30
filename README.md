@@ -2,7 +2,6 @@
 
 🎓Sou Analista Administrativo, Bacharel em Administração e estudante de Análise e Desenvolvimento de Sistemas.
 
-📫[Acesse o meu Linkedin](https://www.linkedin.com/in/augandrade/)
 
 
 -----
