@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 
 
-🎓Sou Analista Administrativo, Bacharel em Administração e estudante de Análise e Desenvolvimento de Sistemas.
+🎓Sou Analista Administrativo, Bacharel em Administração / Desenvolvimento de Sistemas - Cursando Especialização em Inteligência Artificial e ML 
 
 
 
