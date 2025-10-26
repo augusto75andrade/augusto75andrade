@@ -14,8 +14,7 @@ Minhas Tecnologias em Desenvolvimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px" />
-<ima src="<img width="100px" height="512" alt="image" src="https://github.com/user-attachments/assets/974e989a-5474-4801-9ecb-32e25f40a8b7"
-"/>
+<img src="https://github.com/user-attachments/assets/974e989a-5474-4801-9ecb-32e25f40a8b7".svg width="100px"/>
           
 
 -----
