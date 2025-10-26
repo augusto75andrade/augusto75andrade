@@ -7,13 +7,14 @@
 -----
 
 
-Minhas Tecnologias
+Minhas Tecnologias em Desenvolvimento
 
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px" />
+<img src="https://www.bing.com/images/search?q=&view=detailv2&id=76B08A835C650D477A696EAB99236BA659A88C82&ccid=jap/cRsz&iss=fav&FORM=SVIM01&idpview=singleimage&mediaurl=https%253a%252f%252flogolook.net%252fwp-content%252fuploads%252f2022%252f11%252fJava-Logo.png&expw=3840&exph=2160&thid=OIP.jap_cRszSOiPk-lu65mFLwHaEK&idpbck=1"/>
           
 
 -----
