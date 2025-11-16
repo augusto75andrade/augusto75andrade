@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Augusto 👋 
 
-🎓Sou Analista Adm - Bacharel em Administração / Desenvolvimento de Sistemas - Cursando Especialização em Inteligência Artificial e ML 
+🎓Sou Analista Adm - Bacharel em Administração / Desenvolvimento de Sistemas Full Stack - Cursando Especialização em Inteligência Artificial e ML 
 
 
 
