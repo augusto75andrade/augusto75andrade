@@ -8,8 +8,7 @@
 
 
 Minhas Tecnologias 
-<img src="https://github.com/user-attachments/assets/e301559f-91d4-4e82-9e55-decf7375388a.svg" width="100px" />
-"
+
 
 
 
