@@ -10,6 +10,9 @@
 Minhas Tecnologias 
 
 
+<img src="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon "100px" </a>
+
+
 
 
 
