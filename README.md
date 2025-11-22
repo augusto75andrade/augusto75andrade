@@ -11,6 +11,7 @@ Minhas Tecnologias em Desenvolvimento:
 
 
 
+<img src="https://github.com/user-attachments/assets/e6220386-44c8-45ac-8e68-b670289be714" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" />
 <img src="https://github.com/user-attachments/assets/b7477eed-9bc1-43b4-9701-4131dd24b44f" width="100px"/>
