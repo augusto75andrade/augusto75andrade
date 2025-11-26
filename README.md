@@ -8,10 +8,10 @@
 
 
 Minhas Tecnologias 
-<img src="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon width="100px"</a>
-<img src="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon width="100px"</a>
-<img src="https://www.flaticon.com/free-icons/css-3" title="css 3 icons">Css 3 icons created by Freepik - Flaticon width="100px"</a>
-<img src="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Kiranshastry - Flaticon width="100px"</a>
+<img src="https://www.flaticon.com/free-icons/javascript" title="javascript icons"> width="100px"</a>
+<img src="https://www.flaticon.com/free-icons/html" title="html icons">width="100px"</a>
+<img src="https://www.flaticon.com/free-icons/css-3" title="css 3 icons"> width="100px"</a>
+<img src="https://www.flaticon.com/free-icons/react" title="react icons"> width="100px"</a>
 
 
 
