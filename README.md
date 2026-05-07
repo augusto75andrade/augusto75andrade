@@ -9,30 +9,13 @@
 
 Minhas Tecnologias 
 
-         
-          
-
-
-
-
-
 
 
 
 
 Em Desenvolvimento:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" />
-<img src="https://github.com/user-attachments/assets/b7477eed-9bc1-43b4-9701-4131dd24b44f" width="100px"/>
-
-
-
-
-          
-
------
-          
-    
+<img src="https://github.com/user-attachments/assets/b7477eed-9bc1-43b4-9701-4131dd24b44f" width="100p" />
 
 
 <!--
